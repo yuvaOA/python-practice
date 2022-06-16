@@ -1,0 +1,13 @@
+#persnol deatails
+name= input("Enter the name:")
+age= input("Enter the age:")
+school= input("Enter the school:")
+subjects= input("Enter the subjects:")
+T=int(input("tamil:"))
+E=int(input("eng:"))
+M=int(input("maths:"))
+P=int(input("physics:"))
+C=int(input("chemistry:"))
+CS=int(input("Computer science:"))
+total=int(input("Enter total marks:"))
+percent= input("Enter the percent:")
